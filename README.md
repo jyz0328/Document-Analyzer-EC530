@@ -12,7 +12,7 @@ auth.py :authcation module<br>
 upload.py : upload module<br>
 text analyzer.py: text analyze module<br>
 document.txt:a sample document for analyzing, you can use other [txt] document <br>
-users.db: show all valid users name and password <br>
+users.db: database show all valid users name and password <br>
 Database Create: documents about how I generate this users.db
 docker and quene :current answer for [Link to your Queue Implementatiobn] and [link to your Docker and Installation implementation]<br><br>
 what need do later:<br>
