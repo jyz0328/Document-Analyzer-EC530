@@ -5,7 +5,7 @@ use [control c]to exit backend<br><br>
 
 
 then explain functions <br>
-nowclient.py:frontend, which show things in front of users
+nowclient.py:frontend, which show things in front of users <br>
 app.py : backend , all modules need to be import<br>
 auth.py :authcation module<br>
 upload.py : upload module<br>
