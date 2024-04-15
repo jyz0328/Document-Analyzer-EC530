@@ -9,7 +9,6 @@ nowclient.py:frontend, which show things in front of users <br>
 app.py : backend , all modules need to be import<br>
 auth.py :authcation module<br>
 upload.py : upload module<br>
-feed ingester: do not know how to do<br>
 text analyzer.py: text analyze module<br><br>
 what need do later<br>
 understand database<br>
