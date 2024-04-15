@@ -2,9 +2,8 @@ how to run file <br>
 run [ python3 ./app.py ] in terminal A <br>
 run [python3 ./nowclient.py ] in terminal B <br>
 use [control c]to exit backend<br><br>
-currently version all the valid users name and password are stored in [users.db] <br>
-currently version only document using 'txt' can be analyzed, use any other document will cuase failure<br>
 
+currently version only document using 'txt' can be analyzed, use any other document will cuase failure<br>
 
 then explain functions <br>
 nowclient.py:frontend, which show things in front of users <br>
