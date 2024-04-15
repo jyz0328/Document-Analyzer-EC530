@@ -14,6 +14,7 @@ upload.py : upload module<br>
 text analyzer.py: text analyze module<br>
 document.txt:a sample document for analyzing, you can use other [txt] document <br>
 users.db: show all valid users name and password <br>
+Database Create: documents about how I generate this users.db
 docker and quene is not related to this project 2 please igonore it<br><br>
 what need do later:<br>
 must:also fit pdf upload,<br>
