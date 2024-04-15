@@ -2,7 +2,7 @@ how to run file <br>
 run [ python3 ./app.py ] in terminal A <br>
 run [python3 ./nowclient.py ] in terminal B <br>
 use [control c]to exit backend<br><br>
-currently version i only set user name 'admin' and password 'admin' into account, use any other user and password will cuase failure <br>
+currently version all the valid users name and password are stored in [users.json] <br>
 currently version only document using 'txt' can be analyzed, use any other document will cuase failure<br>
 
 
@@ -13,6 +13,7 @@ auth.py :authcation module<br>
 upload.py : upload module<br>
 text analyzer.py: text analyze module<br>
 document.txt:a sample document for analyzing, you can use other [txt] document <br>
+users.json: show all valid users name and password <br>
 docker and quene is not related to this project 2 please igonore it<br><br>
 what need do later<br>
 understand database<br>
