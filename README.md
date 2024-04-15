@@ -2,6 +2,8 @@ how to run file <br>
 run [ python3 ./app.py ] in terminal A <br>
 run [python3 ./nowclient.py ] in terminal B <br>
 use [control c]to exit backend<br><br>
+currently version i only set user name 'admin' and password 'admin' into account, use any other user and password will cuase failure <br>
+currently version only document using 'txt' can be analyzed, use any other document will cuase failure<br>
 
 
 then explain functions <br>
