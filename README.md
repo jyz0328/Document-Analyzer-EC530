@@ -12,6 +12,7 @@ app.py : backend , all modules need to be import<br>
 auth.py :authcation module<br>
 upload.py : upload module<br>
 text analyzer.py: text analyze module<br><br>
+docker and quene is not related to this program please igonore it
 what need do later<br>
 understand database<br>
 also fit pdf upload<br>
