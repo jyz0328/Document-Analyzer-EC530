@@ -11,8 +11,9 @@ nowclient.py:frontend, which show things in front of users <br>
 app.py : backend , all modules need to be import<br>
 auth.py :authcation module<br>
 upload.py : upload module<br>
-text analyzer.py: text analyze module<br><br>
-docker and quene is not related to this program please igonore it
+text analyzer.py: text analyze module<br>
+document.txt:a sample document for analyzing, you can use other [txt] document <br>
+docker and quene is not related to this project 2 please igonore it<br><br>
 what need do later<br>
 understand database<br>
 also fit pdf upload<br>
