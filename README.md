@@ -1,8 +1,8 @@
 how to run file <br>
 run [ python3 ./app.py ] in terminal A <br>
 run [python3 ./nowclient.py ] in terminal B <br>
-then u can see ["What do you want to do? (1 for login, 2 for register, 3 for exit): "], input 1 or 2 or 3 to see effect
-if u login successfully u can also see [Choose an option: (1 for upload, 2 for logout): ], input 1 or 2 to see effect
+then u can see ["What do you want to do? (1 for login, 2 for register, 3 for exit): "], input 1 or 2 or 3 to see effect<br>
+if u login successfully u can also see [Choose an option: (1 for upload, 2 for logout): ], input 1 or 2 to see effect<br>
 use [control c]to exit backend<br><br>
 
 
