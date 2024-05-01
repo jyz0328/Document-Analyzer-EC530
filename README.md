@@ -6,7 +6,7 @@
 - Step1 :run [python3 ./app.py] in terminal A
 - Step2 :run [python3 ./nowclient.py ] in terminal B
 - Step3 :then u can see ["What do you want to do? (1 for login, 2 for register, 3 for exit): "], input 1 or 2 or 3 to see effect
-- Step4 :if u login successfully u can also see [Choose an option: (1 for upload, 2 for logout): ], input 1 or 2 to see effect<br>, u can use `example.pdf`, `test.txt` or use other pdf or txt files as file for upload
+- Step4 :if u login successfully u can also see [Choose an option: (1 for upload, 2 for logout): ], input 1 or 2 to see effect, u can use `example.pdf`, `test.txt` or use other pdf or txt files as file for upload
 - Step5 :use [control c]to exit backend
 - Notice : currently version only document using 'pdf txt' can be analyzed, use any other document will cuase failure, i will address this in furture if i have time<br>
 
