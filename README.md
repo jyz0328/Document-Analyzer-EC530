@@ -19,7 +19,7 @@
 - `example.pdf` `test.txt`:sample documents for analyzing, you can use other [pdf / txt] document 
 - `users.db`: database show all valid users name and password 
 - `Database Create` folder : documents about how I generate this users.db
-- `Queue Implementation` folder : In this folder I explain what I do for quene implementation.
+- `Queue Implementation` folder : In this folder I explain what I do for quene implementation. Check `Quene_Implement_Report.pdf` to see detailed explanation
 - `docker and quene` :current answer for [Link to your Queue Implementatiobn] and [link to your Docker and Installation implementation]<br><br>
 
 what need do later:<br>
