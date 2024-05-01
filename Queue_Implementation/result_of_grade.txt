@@ -1,0 +1,56 @@
+Entities:
+12/23/23, 10:04 AM (TIME); Boston University Office of the University Registrar
+STUDENT GRADE REPORT FOR (ORG); December 23, (DATE); Jingyi Zhang (PERSON); 1st year (DATE); ENG EC504 (PRODUCT); ADV DATA (ORG); 14.8 4.0 (CARDINAL); ENG (ORG); 16.0 4.0 (CARDINAL); ENG EC602 (PRODUCT); 16.0 4.0 (CARDINAL); ENG EK690 A1 CAREER LAB MS (PRODUCT); F 0.0 1.0 (PRODUCT); PDP (ORG); 0.0 1.0 (CARDINAL); 46.8 (CARDINAL); Total Credit Hours (EVENT); 14.0 (CARDINAL); Semester Grade Point (ORG); 3.60 (CARDINAL); Cum Grade Point (ORG); 3.60 (CARDINAL); December 23, 2023 (DATE); Boston University Grading System (ORG); Explanation
+Grade per Credit Hour (ORG); 4.0 (CARDINAL); 3.7 (CARDINAL); 3.3 (CARDINAL); 2.7 (CARDINAL); 2.3 (CARDINAL); 2.0 (CARDINAL); NC Not Applicable (WORK_OF_ART); F* Not Applicable Fail (PRODUCT); J Not Applicable Registration (WORK_OF_ART); Grade (ORG); 1/1 (CARDINAL)
+
+Keywords:
+AM, STUDENT, FALL, Name, 1st, year, Hours, A-, B+, B, C+, C, D, Credit, Credit, degree, Credit, acceptable, degree, P, P, course, course, Additional, work, same, course, Applicable, Applicable, Unresolved, https://www.bu.edu/link/bin/uiscgi_studentlink.pl/HREF=https://www.bu.edu/link/bin/uiscgi_studentlink.pl/1703343829?applpath=grades_print.pl&StudentKe
+
+Sentiment Polarity: 0.07727272727272726
+
+Summary:
+12/23/23, 10:04 AM Grades
+Boston University Office of the University Registrar
+STUDENT GRADE REPORT FOR FALL 2023
+AS OF December 23, 2023
+Name: Jingyi Zhang College of Registration: ENG
+ID Number: U26-57-8499 Class Year: Graduate 1st year
+Course Letter Honor Credit
+College Section Course Title
+Number Grade Points Hours
+ENG EC504 A1 ADV DATA STRUCT A- 14.8 4.0
+ENG EC601 A2 PROD DES ECE A 16.0 4.0
+ENG EC602 A1 DES BY SOFTWARE A 16.0 4.0
+ENG EK690 A1 CAREER LAB MS F 0.0 1.0
+PDP NT104 A1 HEALTHY COOKING P 0.0 1.0
+Total Honor Points 46.8
+Total Credit Hours 14.0
+Semester Grade Point Index 3.60
+Cum Grade Point Average 3.60 (As of December 23, 2023)
+Boston University Grading System
+Letter Honor Points
+Explanation
+Grade per Credit Hour
+A 4.0 Excellent
+A- 3.7
+B+ 3.3
+B 3.0 Good
+B- 2.7
+C+ 2.3
+C 2.0 Satisfactory
+C- 1.7
+D 1.0 Low Pass
+F 0.0 Fail; No Credit
+AU Not Applicable Audit; No Credit Earned
+CR Not Applicable Credit; Acceptable for degree
+NC Not Applicable No Credit; Not acceptable for degree
+H Not Applicable Honors
+P Not Applicable Pass with Credit
+P* Not Applicable Pass, P/F course
+F* Not Applicable Fail, P/F course
+I Not Applicable Incomplete; Additional work required
+J Not Applicable Registration in the same or continuing course required
+W Not Applicable Withdrew
+MG Not Applicable Missing Grade; Grade not assigned
+X Not Applicable Unresolved
+https://www.bu.edu/link/bin/uiscgi_studentlink.pl/HREF=https://www.bu.edu/link/bin/uiscgi_studentlink.pl/1703343829?applpath=grades_print.pl&StudentKe… 1/1.

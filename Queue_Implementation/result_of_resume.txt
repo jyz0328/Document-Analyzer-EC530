@@ -1,0 +1,70 @@
+Entities:
+JINGYIZHANG(ALISIAZHANG (PRODUCT); Github (GPE); jyz0328
+Phone:765-746-9037|email (PERSON); jyz0328@bu.edu|Boston (GPE); MA (GPE); BOSTONUNIVERSITY (ORG); Sep2023-ExpectedJune2025 (PERSON); TaiChung (GPE); Taiwan (GPE); Data Structure, Probabilistic Methods (ORG); Digital System Design (ORG); Data Science (ORG); WORKINGEXPERIENCE (GPE); Shanghai (GPE); China (GPE); June2023 (GPE); Aug2023 (GPE); Performeddatacleaningusingpythononsummerweatherandirradiancedata (ORG); AppliedPearson (ORG); Spearman (GPE); andKendallcorrelationmethodforcorrelationanalysis (ORG); Developedatimeseriesforecastingmodelbasedon
+LSTM(LongShort (PERSON); 75%to92% (PERCENT); Alsopresentedthemodeltothewholecompanyforfuturereferenceandfeedback (PERSON); PROJECTSEXPERIENCE (TIME); AI (ORG); FerriMetric (ORG); Appliedrandomforestalgorithmonthedatato (PERSON); Sep2023-Dec2023 (PERSON); ISD-OCCDALIYDETAILApplication PurdueUniversity (ORG); DesignedandImplementedtheloginauthenticationfeatureusingC++ (PERSON); TikTokreminder (ORG); Designedanandroidappwhichremindpeoplewhenshouldtheydowhat (PERSON); OtherProjects (ORG); GUARDTOURSUYSTEM (ORG); LASERHARPPROJECT (ORG); SQL (ORG); Git (GPE); AWS (ORG); AndroidStudio (ORG); Matlab (ORG); Critical Thinking (ORG); Data Science (ORG); Computer Engineering (ORG); Economics,Algorithm (ORG); Microsoftoffice (GPE)
+
+Keywords:
+ExpectedJune2025, Aug2020, May2023, , Designedandimplementedapredictivemodelforphotovoltaicpanelpowerusagebasedonsummerweather, andirradiancedataattributes, includingtemperature, pressure, andhorizontal, vertical, scatterirradiance, prediction, model, implementation, power, usage, prediction, accuracy, %, Alsopresentedthemodeltothewholecompanyforfuturereferenceandfeedback, Co, nutritional, deficiencies, detection, tool, order, , IntegratedwithAPItocrawlandextractthenutritionalinformationoftop5popularmealsfrom10countries, usingEnglish, Cleanedandprepareddataintojsonformat, predictpatient’sironbioavailabilityofironandbloodtransferrinsaturation, , DesignedandimplementedaC++application, neareststateforthislocationinformationasresult, , calculatingtheneareststatefromthegiveninputlocation, May2022, August2022, timeperiodsandrecommendedpositionstoinstallsensorsforrealtimesafetymonitoring, prediction, model, multivariate, linear, regression, model, relationships, hightemperatureand, precipitation, andbicycletrafficusingsklearn, , square, positions, maximum, traffic, flow, sensors, , OCCDailyDetailisanappdesignedforISD(IndianaschoolfortheDeaf)forteachersgivingparentsprompt, feedbackforstudentsontheirengagementandactivitiesatschool, displayingandaestheticsincludingusingCandswfit, DesignedandImplementedtheloginauthenticationfeatureusingC++, , webdesign, Other, learning, visualization, System, design, dataanalysis, statistics, computerscience
+
+Sentiment Polarity: -0.006249999999999999
+
+Summary:
+JINGYIZHANG(ALISIAZHANG)
+Linkedin:https://www.linkedin.com/in/jingyi-zhang-23a92a276/
+Github:https://github.com/jyz0328
+Phone:765-746-9037|email:jyz0328@bu.edu|Boston,MA
+EDUCATION
+BOSTONUNIVERSITY BostonMA
+M.S.inElectricalandComputerEngineering,GPA:3.60/4.00 Sep2023-ExpectedJune2025
+PURDUEUNIVERSITY WestLafayetteIN
+B.S.inElectricalEngineering(Major),Economics(Minor),GPA:3.12/4.00 Aug2020-May2023
+FENGCHIAUNIVERSITY TaiChung,Taiwan
+B.S.inElectricalandComputerEngineering,GPA:3.60/4.00 Aug2018-June2020
+RelevantCoursework
+Product Design in Engineering, Data Structure, Probabilistic Methods, Digital System Design, Data Science,
+Softwareprogramming,DigitalSignalProcessing,microeconomics,etc
+WORKINGEXPERIENCE
+ShanghaiMingHuadianLiTechnologyCo.,Ltd.
+dataanalysisprojectassistant(internship) Shanghai,China,June2023-Aug2023
+ Designedandimplementedapredictivemodelforphotovoltaicpanelpowerusagebasedonsummerweather
+andirradiancedataattributes, includingtemperature,pressure,andhorizontal/vertical/scatterirradiance.
+ Performeddatacleaningusingpythononsummerweatherandirradiancedata.AppliedPearson,Spearman,
+andKendallcorrelationmethodforcorrelationanalysis.Developedatimeseriesforecastingmodelbasedon
+LSTM(LongShort-TermMemory)topredictpowerusage.
+ Finalized the prediction model implementation which increased the power usage prediction accuracy from
+75%to92%. Alsopresentedthemodeltothewholecompanyforfuturereferenceandfeedback.
+PROJECTSEXPERIENCE
+FerriMetric-anAINutritionDeficienciesPredictionApplication BostonUniversity,Sep2023-Dec2023
+ Co-designed and implemented an AI-based nutritional deficiencies detection tool FerriMetric in order to
+identifypatients’potentialhealthrisksduetounbalanceddailynutritionintake.
+ IntegratedwithAPItocrawlandextractthenutritionalinformationoftop5popularmealsfrom10countries
+usingEnglish.Cleanedandprepareddataintojsonformat.Appliedrandomforestalgorithmonthedatato
+predictpatient’sironbioavailabilityofironandbloodtransferrinsaturation.
+ PresentedresearchtocompanystaffandprofessorsattheBostonUniversityResearchFair.
+NearestStatefinder BostonUniversity,Sep2023-Dec2023
+ DesignedandimplementedaC++application, whichtakesthelatitudeandlongitudeasinputandreturnsthe
+neareststateforthislocationinformationasresult.
+ EmployedKDtreeforstate’slocationinformationstorageandretrieval;appliedmajorityvotingalgorithmon
+calculatingtheneareststatefromthegiveninputlocation.
+BikeTrafficpythonPredictionTool PurdueUniversity,May2022-August2022
+ Designedanddevelopedapredictiontoolusingpythonwhichhelpsinforecastingbiketrafficduringdifferent
+timeperiodsandrecommendedpositionstoinstallsensorsforrealtimesafetymonitoring..
+ Developed the prediction model using multivariate linear regression model by analyzing relationships
+betweendailyweatherforecastdata(5attributesincludingtemperature,(low/hightemperatureand
+precipitation andbicycletrafficusingsklearn.
+ Implemented R square algorithm on calculating positions with predicted maximum traffic flow for installing
+sensors..
+ISD-OCCDALIYDETAILApplication PurdueUniversity,Jan2021-May2021
+ OCCDailyDetailisanappdesignedforISD(IndianaschoolfortheDeaf)forteachersgivingparentsprompt
+feedbackforstudentsontheirengagementandactivitiesatschool.
+ Enhancedtheiosfrontendfeaturesonformatting,displayingandaestheticsincludingusingCandswfit.
+ DesignedandImplementedtheloginauthenticationfeatureusingC++.
+ ImplementedtheapplocalizationfeaturewhichtranslatestheapplicationbetweenEnglishandSpanishusing
+C++and java.
+TikTokreminder FengChiaUniversitySep2019-Dec2019
+ Designedanandroidappwhichremindpeoplewhenshouldtheydowhat.
+OtherProjects:Beautiful“handwriting”machine,GUARDTOURSUYSTEM,LASERHARPPROJECT
+SKILLS
+Languages/Tools: C/C+,Java,Python,SQL,Git,AWS,AndroidStudio,Matlab,PCBdesign,webdesign
+Other: Machine learning, Critical Thinking , Data Science, Data visualization,Computer Engineering, System
+design,Economics,Algorithm,dataanalysis,Microsoftoffice,statistics,computerscience.
