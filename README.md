@@ -9,6 +9,7 @@
 - Step4 :if u login successfully u can also see [Choose an option: (1 for upload, 2 for logout): ], input 1 or 2 to see effect, u can use `example.pdf`, `test.txt` or use other pdf or txt files as file for upload
 - Step5 :use [control c]to exit backend
 - Notice : currently version only document using 'pdf txt' can be analyzed, use any other document will cuase failure, i will address this in furture if i have time<br>
+- Notice : u can also follow `Docker_and_Packaging` folder to download the codes in packaging method
 
 # usage of each component <br>
 - `nowclient.py` :frontend, which show things in front of users.
@@ -20,10 +21,11 @@
 - `users.db`: database show all valid users name and password 
 - `Database Create` folder : documents about how I generate this users.db
 - `Queue Implementation` folder : In this folder I explain what I do for quene implementation. Check `Quene_Implement_Report.pdf` to see detailed explanation
-- `docker and quene` :current answer for [Link to your Queue Implementatiobn] and [link to your Docker and Installation implementation]<br><br>
+- `Docker_and_Packaging` folder: in this folder explain what i did for python packaging.
+- `docker and quene` previous answer for [Link to your Queue Implementatiobn] and [link to your Docker and Installation implementation], needs to be abandoned<br><br>
 
 what need do later:<br>
-must:add test like what project1 did, docker (how to add test?)<br>
+must:add test like what project1 did,then add unit test part into `Queue Implementation`  and `Docker_and_Packaging` <br>
 optional:how to do with feed ingester such as [Keywords within paragraphs should be searchable<br>
 in government opendata, wikipedia and media organizations, e.g., NYTimes ]<br>
 optional:how to make more fit analyze for text<br>
