@@ -9,7 +9,7 @@
 - Step4 :if u login successfully u can also see [Choose an option: (1 for upload, 2 for logout): ], input 1 or 2 to see effect, u can use `example.pdf`, `test.txt` or use other pdf or txt files as file for upload
 - Step5 :use [control c]to exit backend
 - Notice : currently version only document using 'pdf txt' can be analyzed, use any other document will cuase failure, i will address this in furture if i have time<br>
-- Notice : u can also follow `Docker_and_Packaging` folder to download the codes in packaging method
+- Notice : u can also follow `Docker_and_Packaging` folder to download the codes in packaging method. Here is also my documentation link: https://test.pypi.org/project/EC530-project2-new/0.1.0/
 
 # usage of each component <br>
 - `nowclient.py` :frontend, which show things in front of users.
@@ -21,7 +21,7 @@
 - `users.db`: database show all valid users name and password 
 - `Database Create` folder : documents about how I generate this users.db
 - `Queue Implementation` folder : In this folder I explain what I do for quene implementation. Check `Quene_Implement_Report.pdf` to see detailed explanation
-- `Docker_and_Packaging` folder: in this folder explain what i did for python packaging.
+- `Docker_and_Packaging` folder: in this folder explain what i did for python packaging. Here is also my documentation link: https://test.pypi.org/project/EC530-project2-new/0.1.0/
 - `docker and quene` previous answer for [Link to your Queue Implementatiobn] and [link to your Docker and Installation implementation], however the answers of these two links have already updated by other two links, so this folder is not necessary now<br><br>
 
 what need do later:<br>
