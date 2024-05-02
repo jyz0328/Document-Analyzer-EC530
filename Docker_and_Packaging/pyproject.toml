@@ -1,0 +1,35 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "EC530-project2-new"
+version = "0.1.0"
+authors = [
+    { name = "JINGYI ZHANG", email = "jyz0328@bu.edu" }
+]
+description = "EC530-project2-new: document analyzer"
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "flask",
+    "flask_login",
+    "flask_restful",
+    "pdfplumber",
+    "spacy",
+    "textblob",
+    "requests"
+]
+
+[project.urls]
+Homepage = "https://github.com/jyz0328/EC530-project2-new" 
+
+[tool.hatch.build.targets.wheel]
+packages = ["src"]
+include = ["../LICENSE", "../README.md", "../test/**/*"]
