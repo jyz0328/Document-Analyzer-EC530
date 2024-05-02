@@ -22,7 +22,7 @@
 - `Database Create` folder : documents about how I generate this users.db
 - `Queue Implementation` folder : In this folder I explain what I do for quene implementation. Check `Quene_Implement_Report.pdf` to see detailed explanation
 - `Docker_and_Packaging` folder: in this folder explain what i did for python packaging.
-- `docker and quene` previous answer for [Link to your Queue Implementatiobn] and [link to your Docker and Installation implementation], needs to be abandoned<br><br>
+- `docker and quene` previous answer for [Link to your Queue Implementatiobn] and [link to your Docker and Installation implementation], however the answers of these two links have already updated by other two links, so this folder is not necessary now<br><br>
 
 what need do later:<br>
 must:add test like what project1 did,then add unit test part into `Queue Implementation`  and `Docker_and_Packaging` <br>
