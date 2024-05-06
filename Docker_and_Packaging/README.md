@@ -1,5 +1,6 @@
 # document text analyzer for EC530
 # By JINGYI ZHANG (jyz0328@bu.edu, U26578499)
+# please see [Packaging and Docker Report.pdf] , the following content are for github method
 
 # how to run file
 - Step0 :download this github
