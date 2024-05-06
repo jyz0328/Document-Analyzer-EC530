@@ -2,7 +2,7 @@
 # By JINGYI ZHANG (jyz0328@bu.edu, U26578499)
 
 # how to run file
-- Step0 :download this github
+- Step0 :download files of this github
 - Step1 :run [python3 ./app.py] in terminal A
 - Step2 :run [python3 ./nowclient.py ] in terminal B
 - Step3 :then u can see ["What do you want to do? (1 for login, 2 for register, 3 for exit): "], input 1 or 2 or 3 to see effect
@@ -13,6 +13,12 @@
 
 # demo of code 
 - see `DEMO_report.pdf`
+
+# how to run test
+- Step 0:download `tests`  folder of this github
+- Step 1:open `test_upload` folder, then run [pytest test_upload.py] in terminal
+- Step 2:open `test_textanalyzer` folder, then run [pytest test_textanalyzer.py] in terminal
+- demo of this are built in `DEMO_report.pdf`
  
 # usage of each component <br>
 - `nowclient.py` :frontend, which show things in front of users.
