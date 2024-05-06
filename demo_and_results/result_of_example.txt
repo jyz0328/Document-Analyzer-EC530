@@ -1,0 +1,28 @@
+Entities:
+1 (CARDINAL); Maps API
+Syntax (PERSON); URLrequest (ORG); 2 (CARDINAL); YouTube API
+Syntax (PERSON); API versionspecifiedin theURL.
+ (PERSON); 3 (CARDINAL); API
+Syntax (PERSON); Library (PERSON); 1 (CARDINAL); DesignedforPython (ORG); 3 (CARDINAL); Keras API
+Syntax:Python (PERSON); TensorFlow (PRODUCT); Hardware (ORG); 1 (CARDINAL); Syntax (ORG); Vulkan (PERSON); Browser (PERSON); 1 (CARDINAL); Syntax (PRODUCT); JavaScript (ORG); 2 (CARDINAL); JavaScript (ORG); Summary
+Service (ORG); Library (PERSON)
+
+Keywords:
+Service, APIs, REST, offeringrich, options, Widelyused, stable, Documentation, withnumerousexamples, throughURLpath, REST, supportsclient, librariesinmultiple, languages, Widelyused, stable, Documentation, Detailed, easytounderstand, RESTful, variousdataformats, Widelyused, Documentation, includesdeveloperguidesandtutorials, Clearversion, numbermanagement, APIs, TensorFlow, andotherlanguages, Widelyused, Documentation, Verycomprehensive, includingAPIreference, tutorials, Followssemantic, Numpy, easytouse, Stable, forscientific, computing, Documentation, Detailed, includestutorialsandreferencemanuals, Followssemantic, versioning, designedtobesimple, Documentation, withrich, examples, Followssemantic, versioning, APIs, Cross, -, language, stable, newer, APIs, new, platforms, Documentation, difficultforbeginners, Clearversion, numbers, goodbackwardcompatibility, APIs, Web, APIs, webstandards, theevolution, technologies, Documentation, documentationandexamples, concernfordevelopers, managedbybrowservendors, Chrome, APIsSyntax, designedforChromeextensiondevelopment, Stable, availableinthe, Documentation, Googleprovidesdetaileddevelopment, documentationandguides, relatedtoChromeversions, APIs, web, services, syntax, usage, emphasizingcross, platformcompatibilityandeaseof, use, APIs, rich, functionality, specific, programming, languages
+
+Sentiment Polarity: 0.20227272727272724
+
+Summary:
+Service-based APIs
+Byjingyizhangu26578499
+1. Google Maps API
+Syntax:REST-based,offeringrich URLrequest options.
+Status:Widelyused,stable.
+Documentation:Verycomprehensive,withnumerousexamples.
+Versioning:Versionspecified throughURLpath.
+2. YouTube API
+Syntax:REST-based,supportsclient librariesinmultiple languages.
+Status:Widelyused,stable.
+Documentation:Detailed,easytounderstand.
+Versioning:API versionspecifiedin theURL.
+3.

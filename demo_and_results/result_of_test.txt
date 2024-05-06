@@ -1,0 +1,11 @@
+Entities:
+November (DATE)
+
+Keywords:
+dreary, night, accomplishment, toils, anxiety, agony, instruments, life, spark, lifeless, thing, feet
+
+Sentiment Polarity: 0.0
+
+Summary:
+It was on a dreary night of November that I beheld the accomplishment of my toils. With an anxiety that almost amounted to agony, I collected the instruments of life around me, that I might infuse a spark of being into the lifeless thing that lay at my feet.
+.
