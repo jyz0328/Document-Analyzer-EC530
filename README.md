@@ -17,9 +17,10 @@
 - `auth.py` :authcation module, which is used for login, logout, register users.
 - `upload.py` : upload module, which is used for upload documents. I also do quene implementation in this code .
 - `textanalyzer.py`: text analyze module, which is used for analyze text of upload document , the analyzing result will be saved as a report.txt automatically<br>
-- `example.pdf` `test.txt`:sample documents for analyzing, you can use other [pdf / txt] document 
-- `users.db`: database show all valid users name and password 
-- `Database Create` folder : documents about how I generate this users.db
+- `example.pdf` `test.txt` `grade.pdf`:sample documents for analyzing, you can use other [pdf / txt] document 
+- `users.db`: database show all valid users name and password
+- `demo.pdf`:demo of this code 
+- `tests` folder : documents about my unit tests
 - `Queue Implementation` folder : In this folder I explain what I do for quene implementation. Check `Quene_Implement_Report.pdf` to see detailed explanation
 - `Docker_and_Packaging` folder: in this folder explain what i did for python packaging. Here is also my documentation link: https://test.pypi.org/project/EC530-project2-new/0.1.0/ , see more details in `Packaging and Docker Report.pdf`
 - `docker and quene` previous answer for [Link to your Queue Implementatiobn] and [link to your Docker and Installation implementation], however the answers of these two links have already updated by other two links, so this folder is not necessary now<br><br>
