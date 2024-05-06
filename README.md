@@ -19,7 +19,7 @@
 - `textanalyzer.py`: text analyze module, which is used for analyze text of upload document , the analyzing result will be saved as a report.txt automatically<br>
 - `example.pdf` `test.txt` `grade.pdf`:sample documents for analyzing, you can use other [pdf / txt] document 
 - `users.db`: database show all valid users name and password
-- `demo.pdf`:demo of this code 
+- `DEMO_report.pdf`:demo of this code 
 - `tests` folder : documents about my unit tests
 - `Queue Implementation` folder : In this folder I explain what I do for quene implementation. Check `Quene_Implement_Report.pdf` to see detailed explanation
 - `Docker_and_Packaging` folder: in this folder explain what i did for python packaging. Here is also my documentation link: https://test.pypi.org/project/EC530-project2-new/0.1.0/ , see more details in `Packaging and Docker Report.pdf`
