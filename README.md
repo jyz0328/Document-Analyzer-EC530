@@ -11,6 +11,9 @@
 - Notice : currently version only document using 'pdf txt' can be analyzed, use any other document will cuase failure, i will address this in furture if i have time<br>
 - Notice : u can also follow `Docker_and_Packaging` folder to download the codes in packaging method. Here is also my documentation link: https://test.pypi.org/project/EC530-project2-new/0.1.0/
 
+# demo of code 
+- see `DEMO_report.pdf`
+ 
 # usage of each component <br>
 - `nowclient.py` :frontend, which show things in front of users.
 - `app.py` : backend , all other codes modules need to be imported and connected here.
@@ -26,7 +29,7 @@
 - `docker and quene` previous answer for [Link to your Queue Implementatiobn] and [link to your Docker and Installation implementation], however the answers of these two links have already updated by other two links, so this folder is not necessary now<br><br>
 
 what need do later:<br>
-must:add test like what project1 did,then add unit test part into `Queue Implementation`  and `Docker_and_Packaging` <br>
+must:try to demonstrate data protection, then update quene implemnation /readme/docker and packaging <br>
 optional:how to do with feed ingester such as [Keywords within paragraphs should be searchable<br>
 in government opendata, wikipedia and media organizations, e.g., NYTimes ]<br>
 optional:how to make more fit analyze for text<br>
