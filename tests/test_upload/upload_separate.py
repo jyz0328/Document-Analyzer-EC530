@@ -1,7 +1,7 @@
-## if[python3 upload_seperate.py]we can return 1
-## if[python3 upload_seperate.py none.txt] we can return 2
-## if[python3 upload_seperate.py sample.png]we can return 3
-## if[python3 upload_seperate.py grade.pdf]we can return 4
+## if[python3 upload_separate.py]we can return 1
+## if[python3 upload_separate.py none.txt] we can return 2
+## if[python3 upload_separate.py sample.png]we can return 3
+## if[python3 upload_separate.py grade.pdf]we can return 4
 #seperate upload from auth.py app.py nowclient.py
 import os
 import pdfplumber
