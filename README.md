@@ -19,7 +19,7 @@
 - Step 0:download `tests`  folder of this github
 - Step 1:open `test_upload` folder, then run [pytest test_upload.py] in terminal
 - Step 2:open `test_textanalyzer` folder, then run [pytest test_textanalyzer.py] in terminal
-- demo of this are built in `DEMO_Report.pdf`and `demo_and_results` folder
+- demo of this are built in [`DEMO_report.pdf`](https://github.com/jyz0328/EC530-project2-new/blob/main/DEMO_Report.pdf) and [`demo_and_results`](https://github.com/jyz0328/EC530-project2-new/tree/main/demo_and_results) folder
  
 # usage of each component <br>
 - `nowclient.py` :frontend, which show things in front of users.
@@ -29,11 +29,11 @@
 - `textanalyzer.py`: text analyze module, which is used for analyze text of upload document , the analyzing result will be saved as a report.txt automatically<br>
 - `example.pdf` `test.txt` `grade.pdf``resume.pdf`:sample documents for analyzing, you can use other [pdf / txt] document 
 - `users.db`: database show all valid users name and password
-- `DEMO_Report.pdf`:demo of this code 
-- `tests` folder : documents about my unit tests
-- `demo_and_results` folder : documents about my demo and results of original docuemnts after text analyzering
-- `Queue Implementation` folder : In this folder I explain what I do for quene implementation. Check `Quene_Implement_Report.pdf` to see detailed explanation
-- `Docker_and_Packaging` folder: in this folder explain what i did for python packaging. Here is also my documentation link: https://test.pypi.org/project/EC530-project2-new/0.1.0/ , see more details in `Packaging and Docker Report.pdf`
+- [`DEMO_report.pdf`](https://github.com/jyz0328/EC530-project2-new/blob/main/DEMO_Report.pdf):demo of this code 
+- [`tests`](https://github.com/jyz0328/EC530-project2-new/tree/main/tests) folder : documents about my unit tests
+- [`demo_and_results`](https://github.com/jyz0328/EC530-project2-new/tree/main/demo_and_results) folder : documents about my demo and results of original docuemnts after text analyzering
+- [`Queue Implementation`](https://github.com/jyz0328/EC530-project2-new/tree/main/Queue_Implementation) folder : In this folder I explain what I do for quene implementation. Check `Quene_Implement_Report.pdf` to see detailed explanation
+- [`Docker_and_Packaging`](https://github.com/jyz0328/EC530-project2-new/tree/main/Docker_and_Packaging) folder: in this folder explain what i did for python packaging. Here is also my documentation link: https://test.pypi.org/project/EC530-project2-new/0.1.0/ , see more details in `Packaging and Docker Report.pdf`
 - `docker and quene` previous answer for [Link to your Queue Implementatiobn] and [link to your Docker and Installation implementation], however the answers of these two links have already updated by other two links, so this folder is not necessary now<br><br>
 
 what need do later:<br>
