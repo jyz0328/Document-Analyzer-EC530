@@ -1,10 +1,5 @@
 ## test_upload.py
-###这个代码叫upload_seperate.py，现在创建test_upload.py，通过[pytest test_upload.py]和def test，assert  == 1/2/3/4的方式构建 怎么弄
-## if[python3 upload_seperate.py]we can return 1
-## if[python3 upload_seperate.py none.txt] we can return 2
-## if[python3 upload_seperate.py sample.png]we can return 3
-## if[python3 upload_seperate.py grade.pdf]we can return 4
-#seperate upload from auth.py app.py nowclient.py
+###run [pytest test_upload.py]to see results
 import pytest
 from upload_separate import main
 
