@@ -22,13 +22,13 @@
 - demo of this are built in [`DEMO_report.pdf`](https://github.com/jyz0328/EC530-project2-new/blob/main/DEMO_Report.pdf) and [`demo_and_results`](https://github.com/jyz0328/EC530-project2-new/tree/main/demo_and_results) folder
  
 # usage of each component <br>
-- `nowclient.py` :frontend, which show things in front of users.
-- `app.py` : backend , all other codes modules need to be imported and connected here.
-- `auth.py` :authcation module, which is used for login, logout, register users.
-- `upload.py` : upload module, which is used for upload documents. I also do quene implementation in this code .
-- `textanalyzer.py`: text analyze module, which is used for analyze text of upload document , the analyzing result will be saved as a report.txt automatically<br>
+- [`nowclient.py`](https://github.com/jyz0328/EC530-project2-new/blob/main/nowclient.py) :frontend, which show things in front of users.
+- [`app.py`](https://github.com/jyz0328/EC530-project2-new/blob/main/app.py) : backend , all other codes modules need to be imported and connected here.
+- [`auth.py`](https://github.com/jyz0328/EC530-project2-new/blob/main/auth.py) :authcation module, which is used for login, logout, register users.
+- [`upload.py`](https://github.com/jyz0328/EC530-project2-new/blob/main/upload.py) : upload module, which is used for upload documents. I also do quene implementation in this code .
+- [`textanalyzer.py`](https://github.com/jyz0328/EC530-project2-new/blob/main/textanalyzer.py): text analyze module, which is used for analyze text of upload document , the analyzing result will be saved as a report.txt automatically<br>
 - `example.pdf` `test.txt` `grade.pdf``resume.pdf`:sample documents for analyzing, you can use other [pdf / txt] document 
-- `users.db`: database show all valid users name and password
+- [`users.db`](https://github.com/jyz0328/EC530-project2-new/blob/main/users.db): database show all valid users name and password
 - [`DEMO_report.pdf`](https://github.com/jyz0328/EC530-project2-new/blob/main/DEMO_Report.pdf):demo of this code 
 - [`tests`](https://github.com/jyz0328/EC530-project2-new/tree/main/tests) folder : documents about my unit tests
 - [`demo_and_results`](https://github.com/jyz0328/EC530-project2-new/tree/main/demo_and_results) folder : documents about my demo and results of original docuemnts after text analyzering
