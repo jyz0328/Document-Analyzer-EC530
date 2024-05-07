@@ -13,7 +13,7 @@
 - Notice : u can also follow `Docker_and_Packaging` folder to download the codes in packaging method. Here is also my documentation link: https://test.pypi.org/project/EC530-project2-new/0.1.0/
 
 # demo of code 
-- see `DEMO_report.pdf` and `demo_and_results` folder
+- see [`DEMO_report.pdf`](https://github.com/jyz0328/EC530-project2-new/blob/main/DEMO_Report.pdf) and [`demo_and_results`](https://github.com/jyz0328/EC530-project2-new/tree/main/demo_and_results) folder
 
 # how to run test
 - Step 0:download `tests`  folder of this github
