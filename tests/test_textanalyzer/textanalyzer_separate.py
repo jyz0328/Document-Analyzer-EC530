@@ -1,7 +1,7 @@
-#if [python3 textanalyzer_seperate.py] , we can get return 1
-#if [python3 textanalyzer_seperate.py none.txt], we can get return 2
-#if [python3 textanalyzer_seperate.py grade.pdf], we can get return 3
-#if [python3 textanalyzer_seperate.py test.txt], we can get return 4
+#if run [python3 textanalyzer_separate.py] on terminal , we can get return 1
+#if run [python3 textanalyzer_separate.py none.txt] on terminal, we can get return 2
+#if run [python3 textanalyzer_seperate.py grade.pdf] on terminal , we can get return 3
+#if run [python3 textanalyzer_seperate.py test.txt] on terminal, we can get return 4
 #这个代码是在单独运行textanalyzer并汇报错误或者正确情况
 #报错都和return都在[analyze_doucment]进行，而不是在mianpart进行，并且每个情况保存为return 数字
 #如果，根本没有输入文件，print("error:do not enter a document for text analyze“）输出并让[analyze_doucment]return1
